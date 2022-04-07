@@ -4,4 +4,54 @@ module.exports = {
 
   // 主题和它的配置
   theme: "@vuepress/theme-default",
+
+  themeConfig: {
+    // 侧边栏数组
+    // 所有页面会使用相同的侧边栏
+    sidebar: [
+      {
+        text: "0. SageOS 概述",
+        link: "/0.overview/",
+        children: [
+          //   "/0.overview/README.md",
+          "/0.overview/0.1 structure.md",
+          "/0.overview/0.2 reference.md",
+        ],
+      },
+      {
+        text: "1. 内存管理",
+        link: "/1.memory/",
+        children: [
+          //   "/1.memory/README.md",
+          "/1.memory/1.1 physical-memory.md",
+          "/1.memory/1.2 virtual-memory.md",
+        ],
+      },
+      {
+        text: "2. 进程管理",
+        link: "/2.process/",
+        children: [
+          // "/2.process/README.md",
+          "/2.process/2.1 spinlock-and-semaphore.md",
+          "/2.process/2.2 data-structure-design.md",
+          "/2.process/2.3 interrupt.md",
+          "/2.process/2.4 schedule.md",
+        ],
+      },
+      {
+        text: "3. 文件系统",
+        link: "/3.filesystem/",
+        children: [
+          // "/3.filesystem/README.md"
+          "/3.filesystem/3.1 implement.md",
+          "/3.filesystem/3.2 vfs.md",
+        ],
+      },
+      {
+        text: "4. 外围应用程序",
+        link: "/4.apps/",
+        children: ["/4.apps/4.1 klib.md", "/4.apps/4.2 shell.md"],
+      },
+    ],
+  },
 };

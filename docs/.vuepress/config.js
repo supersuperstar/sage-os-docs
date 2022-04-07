@@ -1,11 +1,17 @@
 module.exports = {
   // 站点配置
   title: "SageOS 文档",
+  lang: "zh-CN",
 
   // 主题和它的配置
   theme: "@vuepress/theme-default",
 
   themeConfig: {
+    docsRepo: "https://github.com/sage-os-team/sage-os-docs",
+    docsBranch: "master",
+    docsDir: "docs",
+    editLinkText: "编辑此页面",
+    editLinkPattern: ":repo/edit/:branch/:path",
     // 侧边栏数组
     // 所有页面会使用相同的侧边栏
     sidebar: [
@@ -14,8 +20,8 @@ module.exports = {
         link: "/0.overview/",
         children: [
           //   "/0.overview/README.md",
-          "/0.overview/0.1 structure.md",
-          "/0.overview/0.2 reference.md",
+          "/0.overview/0.1-structure.md",
+          "/0.overview/0.2-reference.md",
         ],
       },
       {
@@ -23,8 +29,8 @@ module.exports = {
         link: "/1.memory/",
         children: [
           //   "/1.memory/README.md",
-          "/1.memory/1.1 physical-memory.md",
-          "/1.memory/1.2 virtual-memory.md",
+          "/1.memory/1.1-physical-memory.md",
+          "/1.memory/1.2-virtual-memory.md",
         ],
       },
       {
@@ -32,10 +38,10 @@ module.exports = {
         link: "/2.process/",
         children: [
           // "/2.process/README.md",
-          "/2.process/2.1 spinlock-and-semaphore.md",
-          "/2.process/2.2 data-structure-design.md",
-          "/2.process/2.3 interrupt.md",
-          "/2.process/2.4 schedule.md",
+          "/2.process/2.1-spinlock-and-semaphore.md",
+          "/2.process/2.2-data-structure-design.md",
+          "/2.process/2.3-interrupt.md",
+          "/2.process/2.4-schedule.md",
         ],
       },
       {
@@ -43,14 +49,14 @@ module.exports = {
         link: "/3.filesystem/",
         children: [
           // "/3.filesystem/README.md"
-          "/3.filesystem/3.1 implement.md",
-          "/3.filesystem/3.2 vfs.md",
+          "/3.filesystem/3.1-implement.md",
+          "/3.filesystem/3.2-vfs.md",
         ],
       },
       {
         text: "4. 外围应用程序",
         link: "/4.apps/",
-        children: ["/4.apps/4.1 klib.md", "/4.apps/4.2 shell.md"],
+        children: ["/4.apps/4.1-klib.md", "/4.apps/4.2-shell.md"],
       },
     ],
   },

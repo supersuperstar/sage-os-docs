@@ -63,7 +63,7 @@ module.exports = {
         text: "附录",
         link: "/appendix/",
         children: [
-          "/appendix/A.0 reference.md",
+          "/appendix/A.0-reference.md",
           "/appendix/A.1-abstract-machine.md",
           "/appendix/A.2-xv6.md",
         ],

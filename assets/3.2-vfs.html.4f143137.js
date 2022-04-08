@@ -1,0 +1,1 @@
+const e={key:"v-493b761c",path:"/3.filesystem/3.2-vfs.html",title:"3.2 \u865A\u62DF\u6587\u4EF6\u7CFB\u7EDF vfs",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1649352958e3,contributors:[{name:"Moeakwak",email:"moeakwak@gmail.com",commits:1}]},filePathRelative:"3.filesystem/3.2-vfs.md"};export{e as data};

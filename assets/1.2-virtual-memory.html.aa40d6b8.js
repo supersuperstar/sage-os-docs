@@ -1,0 +1,1 @@
+const e={key:"v-527e3de6",path:"/1.memory/1.2-virtual-memory.html",title:"1.2 \u865A\u62DF\u5185\u5B58\u7BA1\u7406",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1649352958e3,contributors:[{name:"Moeakwak",email:"moeakwak@gmail.com",commits:1}]},filePathRelative:"1.memory/1.2-virtual-memory.md"};export{e as data};

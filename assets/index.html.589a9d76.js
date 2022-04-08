@@ -1,0 +1,1 @@
+const a={key:"v-763690ad",path:"/appendix/",title:"\u9644\u5F55",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1649386267e3,contributors:[{name:"Moeakwak",email:"moeakwak@gmail.com",commits:1}]},filePathRelative:"appendix/README.md"};export{a as data};

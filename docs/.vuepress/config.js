@@ -6,6 +6,9 @@ module.exports = {
   // 主题和它的配置
   theme: "@vuepress/theme-default",
 
+  // 插件
+  plugins: ["@vuepress/plugin-shiki"],
+
   themeConfig: {
     docsRepo: "https://github.com/sage-os-team/sage-os-docs",
     docsBranch: "master",
@@ -20,7 +23,8 @@ module.exports = {
         link: "/0.overview/",
         children: [
           "/0.overview/0.1-structure.md",
-          "/0.overview/0.2-reference.md",
+          "/0.overview/0.2-startup.md",
+          "/0.overview/0.3-test-and-presentation.md",
         ],
       },
       {
@@ -57,7 +61,11 @@ module.exports = {
       {
         text: "附录",
         link: "/appendix/",
-        children: ["/appendix/A.1-abstract-machine.md", "/appendix/A.2-xv6.md"],
+        children: [
+          "/appendix/A.0 reference.md",
+          "/appendix/A.1-abstract-machine.md",
+          "/appendix/A.2-xv6.md",
+        ],
       },
     ],
   },

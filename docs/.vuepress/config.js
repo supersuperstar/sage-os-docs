@@ -8,7 +8,7 @@ module.exports = {
   theme: "@vuepress/theme-default",
 
   // 插件
-  plugins: ["@vuepress/plugin-shiki"],
+  plugins: ["@vuepress/plugin-shiki", "@vuepress/plugin-search"],
 
   themeConfig: {
     docsRepo: "https://github.com/sage-os-team/sage-os-docs",

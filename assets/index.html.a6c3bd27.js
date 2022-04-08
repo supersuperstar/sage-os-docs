@@ -1,4 +1,4 @@
-import{_ as n,e}from"./app.4925d0e8.js";const a={},s=e(`<h1 id="_1-\u5185\u5B58\u7BA1\u7406" tabindex="-1"><a class="header-anchor" href="#_1-\u5185\u5B58\u7BA1\u7406" aria-hidden="true">#</a> 1. \u5185\u5B58\u7BA1\u7406</h1><p>\u5806\u533A\u662F\u5982\u4F55\u5206\u914D\u7684\uFF1F</p><p>\u5982\u56FE\u6240\u793A\uFF1A</p><div class="language-text ext-text line-numbers-mode"><pre class="language-text"><code>      heap_end&lt;---+--------------+
+import{_ as n,e}from"./app.0e59a8e1.js";const a={},s=e(`<h1 id="_1-\u5185\u5B58\u7BA1\u7406" tabindex="-1"><a class="header-anchor" href="#_1-\u5185\u5B58\u7BA1\u7406" aria-hidden="true">#</a> 1. \u5185\u5B58\u7BA1\u7406</h1><p>\u5806\u533A\u662F\u5982\u4F55\u5206\u914D\u7684\uFF1F</p><p>\u5982\u56FE\u6240\u793A\uFF1A</p><div class="language-text ext-text line-numbers-mode"><pre class="language-text"><code>      heap_end&lt;---+--------------+
                   |   metadata   +---&gt;pool&amp;chunk(pages),etc.
     meta_start&lt;---+--------------+      (for kernel)
                   |              |

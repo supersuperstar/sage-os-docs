@@ -1,1 +1,0 @@
-const e={key:"v-6b8093c8",path:"/4.apps/4.2-shell.html",title:"4.2 shell",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1649352958e3,contributors:[{name:"Moeakwak",email:"moeakwak@gmail.com",commits:1}]},filePathRelative:"4.apps/4.2-shell.md"};export{e as data};

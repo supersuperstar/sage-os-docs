@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as _,a,b as o}from"./app.1846352a.js";const s={},c={id:"_4-1-klib",tabindex:"-1"},r=a("a",{class:"header-anchor",href:"#_4-1-klib","aria-hidden":"true"},"#",-1),i=o(" 4.1 klib"),n=[r,i];function d(l,h){return t(),_("h1",c,n)}var b=e(s,[["render",d],["__file","4.1-klib.html.vue"]]);export{b as default};

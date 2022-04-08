@@ -1,1 +1,0 @@
-const e={key:"v-225decd6",path:"/2.process/",title:"2. \u8FDB\u7A0B\u7BA1\u7406",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1649352293e3,contributors:[{name:"Moeakwak",email:"moeakwak@gmail.com",commits:1}]},filePathRelative:"2.process/README.md"};export{e as data};

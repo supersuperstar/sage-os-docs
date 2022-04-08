@@ -1,1 +1,0 @@
-const e={key:"v-b4f011d4",path:"/appendix/A.2-xv6.html",title:"A.2 xv6 \u6E90\u7801\u5206\u6790",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1649386267e3,contributors:[{name:"Moeakwak",email:"moeakwak@gmail.com",commits:1}]},filePathRelative:"appendix/A.2-xv6.md"};export{e as data};

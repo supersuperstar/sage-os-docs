@@ -1,1 +1,0 @@
-const a={key:"v-1267691f",path:"/4.apps/4.1-klib.html",title:"4.1 klib",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1649352958e3,contributors:[{name:"Moeakwak",email:"moeakwak@gmail.com",commits:1}]},filePathRelative:"4.apps/4.1-klib.md"};export{a as data};

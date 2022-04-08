@@ -1,1 +1,0 @@
-const a={key:"v-8330f532",path:"/appendix/A.1-abstract-machine.html",title:"A.1 Abstract Machine \u63A5\u53E3\u5206\u6790",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1649386267e3,contributors:[{name:"Moeakwak",email:"moeakwak@gmail.com",commits:1}]},filePathRelative:"appendix/A.1-abstract-machine.md"};export{a as data};

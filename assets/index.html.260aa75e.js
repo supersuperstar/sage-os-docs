@@ -1,1 +1,0 @@
-const a={key:"v-8daa1a0e",path:"/",title:"SageOS \u6587\u6863",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1649352293e3,contributors:[{name:"Moeakwak",email:"moeakwak@gmail.com",commits:2}]},filePathRelative:"README.md"};export{a as data};

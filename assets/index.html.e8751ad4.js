@@ -1,1 +1,0 @@
-import{_ as e,o as a,c as s,a as t,b as o}from"./app.1846352a.js";const _={},c={id:"_0-sageos-\u6982\u8FF0",tabindex:"-1"},r=t("a",{class:"header-anchor",href:"#_0-sageos-\u6982\u8FF0","aria-hidden":"true"},"#",-1),n=o(" 0. SageOS \u6982\u8FF0"),d=[r,n];function i(h,f){return a(),s("h1",c,d)}var x=e(_,[["render",i],["__file","index.html.vue"]]);export{x as default};

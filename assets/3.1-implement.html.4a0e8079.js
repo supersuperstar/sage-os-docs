@@ -1,1 +1,0 @@
-const e={key:"v-463afa5d",path:"/3.filesystem/3.1-implement.html",title:"3.1 \u6587\u4EF6\u7CFB\u7EDF\u5B9E\u73B0",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1649352958e3,contributors:[{name:"Moeakwak",email:"moeakwak@gmail.com",commits:1}]},filePathRelative:"3.filesystem/3.1-implement.md"};export{e as data};

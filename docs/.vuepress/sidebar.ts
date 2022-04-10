@@ -39,7 +39,7 @@ export default defineSidebarConfig([
     text: "4. 库和应用程序",
     link: "/4.apps/",
     prefix: "/4.apps/",
-    children: ["4.1-klib.md", "4.2-shell.md"],
+    children: ["4.1-klib.md", "4.2-shell.md", "4.3-list.md"],
   },
   {
     text: "附录",

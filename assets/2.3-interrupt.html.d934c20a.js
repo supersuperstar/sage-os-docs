@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as _,a as r,b as a}from"./app.976fb9cd.js";const o={},s={id:"_2-3-\u4E2D\u65AD",tabindex:"-1"},c=r("a",{class:"header-anchor",href:"#_2-3-\u4E2D\u65AD","aria-hidden":"true"},"#",-1),n=a(" 2.3 \u4E2D\u65AD"),d=[c,n];function i(h,f){return _(),t("h1",s,d)}var u=e(o,[["render",i],["__file","2.3-interrupt.html.vue"]]);export{u as default};

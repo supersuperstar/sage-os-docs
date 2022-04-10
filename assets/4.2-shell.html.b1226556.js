@@ -1,1 +1,0 @@
-import{_ as e,c as s,o as t,a as _,b as a}from"./app.976fb9cd.js";const o={},c={id:"_4-2-shell",tabindex:"-1"},r=_("a",{class:"header-anchor",href:"#_4-2-shell","aria-hidden":"true"},"#",-1),l=a(" 4.2 shell"),h=[r,l];function n(d,i){return t(),s("h1",c,h)}var m=e(o,[["render",n],["__file","4.2-shell.html.vue"]]);export{m as default};

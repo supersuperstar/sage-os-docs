@@ -1,0 +1,152 @@
+<svg width="529px" height="415px" viewBox="0 0 529 415" version="1.1" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient--e8jw4o5wq-1">
+            <stop stop-color="#FFE8F8" offset="0%"></stop>
+            <stop stop-color="#FDCCED" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient--e8jw4o5wq-2">
+            <stop stop-color="#FFF8EF" offset="0%"></stop>
+            <stop stop-color="#FDEEDA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="88.9368444%" id="linearGradient--e8jw4o5wq-3">
+            <stop stop-color="#ECFFEA" offset="0%"></stop>
+            <stop stop-color="#ACECC6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient--e8jw4o5wq-4">
+            <stop stop-color="#F0F0F0" offset="0%"></stop>
+            <stop stop-color="#DCDCDC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient--e8jw4o5wq-5">
+            <stop stop-color="#FFFDF2" offset="0%"></stop>
+            <stop stop-color="#FFFBE1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient--e8jw4o5wq-6">
+            <stop stop-color="#FEEAFF" offset="0%"></stop>
+            <stop stop-color="#FCD1FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient--e8jw4o5wq-7">
+            <stop stop-color="#EFEEFF" offset="0%"></stop>
+            <stop stop-color="#DAD8FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形" stroke="#E056A6" fill="url(#linearGradient--e8jw4o5wq-1)" x="1.5" y="261.5" width="527"
+            height="100"></rect>
+        <rect id="矩形备份" stroke="#EC5923" fill="url(#linearGradient--e8jw4o5wq-2)" x="0.5" y="74.5" width="527"
+            height="148"></rect>
+        <rect id="矩形备份-2" stroke="#0EBC6A" fill="url(#linearGradient--e8jw4o5wq-3)" x="0.5" y="0.5" width="527"
+            height="55"></rect>
+        <text id="Abstact-Machine-硬件抽象" font-family="PingFangSC-Regular, PingFang SC" font-size="18"
+            font-weight="normal" fill="#000000">
+            <tspan x="146.704" y="292">Abstact Machine 硬件抽象层</tspan>
+        </text>
+        <text id="Kernel-操作系统内核" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
+            fill="#000000">
+            <tspan x="180.372" y="104">Kernel 操作系统内核</tspan>
+        </text>
+        <text id="shell-以及-其它用户应用程序" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
+            fill="#000000">
+            <tspan x="150.232" y="34">shell 以及 其它用户应用程序</tspan>
+        </text>
+        <rect id="矩形" stroke="#888888" fill="url(#linearGradient--e8jw4o5wq-4)" x="1.5" y="377.5" width="116"
+            height="37"></rect>
+        <text id="x86" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="44.119" y="402">x86</tspan>
+        </text>
+        <rect id="矩形" stroke="#888888" fill="url(#linearGradient--e8jw4o5wq-4)" x="138.5" y="377.5" width="116"
+            height="37"></rect>
+        <text id="x86_64" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
+            fill="#000000">
+            <tspan x="165.819" y="402">x86_64</tspan>
+        </text>
+        <rect id="矩形" stroke="#888888" fill="url(#linearGradient--e8jw4o5wq-4)" x="275.5" y="377.5" width="116"
+            height="37"></rect>
+        <text id="native" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
+            fill="#000000">
+            <tspan x="308.606" y="402">native</tspan>
+        </text>
+        <rect id="矩形" stroke="#888888" fill="url(#linearGradient--e8jw4o5wq-4)" x="412.5" y="377.5" width="116"
+            height="37"></rect>
+        <text id="…" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="461.5" y="402">…</tspan>
+        </text>
+        <g id="编组-6" transform="translate(20.000000, 121.000000)">
+            <rect id="矩形" stroke="#DAC861" fill="url(#linearGradient--e8jw4o5wq-5)" x="0.5" y="0.5" width="233"
+                height="37"></rect>
+            <text id="内存管理" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
+                fill="#000000">
+                <tspan x="81" y="25">内存管理</tspan>
+            </text>
+        </g>
+        <g id="编组-5" transform="translate(19.000000, 168.000000)">
+            <rect id="矩形" stroke="#DAC861" fill="url(#linearGradient--e8jw4o5wq-5)" x="0.5" y="0.5" width="233"
+                height="37"></rect>
+            <text id="文件系统" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
+                fill="#000000">
+                <tspan x="81" y="25">文件系统</tspan>
+            </text>
+        </g>
+        <g id="编组-4" transform="translate(275.000000, 121.000000)">
+            <rect id="矩形" stroke="#DAC861" fill="url(#linearGradient--e8jw4o5wq-5)" x="0.5" y="0.5" width="233"
+                height="37"></rect>
+            <text id="进程管理" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
+                fill="#000000">
+                <tspan x="81" y="25">进程管理</tspan>
+            </text>
+        </g>
+        <g id="编组-3" transform="translate(274.000000, 168.000000)">
+            <rect id="矩形" stroke="#DAC861" fill="url(#linearGradient--e8jw4o5wq-5)" x="0.5" y="0.5" width="233"
+                height="37"></rect>
+            <text id="中断调度" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
+                fill="#000000">
+                <tspan x="81" y="25">中断调度</tspan>
+            </text>
+        </g>
+        <g id="TRM" transform="translate(98.000000, 309.000000)">
+            <rect id="矩形" stroke="#A633EF" fill="url(#linearGradient--e8jw4o5wq-6)" x="0.5" y="0.5" width="73.9570798"
+                height="37"></rect>
+            <text font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal" fill="#000000">
+                <tspan x="17.8855399" y="25">TRM</tspan>
+            </text>
+        </g>
+        <g id="IOE" transform="translate(183.276074, 309.000000)">
+            <rect id="矩形" stroke="#A633EF" fill="url(#linearGradient--e8jw4o5wq-6)" x="0.224084369" y="0.5"
+                width="73.9570798" height="37"></rect>
+            <text font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal" fill="#000000">
+                <tspan x="22.4336243" y="25">IOE</tspan>
+            </text>
+        </g>
+        <g id="CTE" transform="translate(269.404908, 309.000000)">
+            <rect id="矩形" stroke="#A633EF" fill="url(#linearGradient--e8jw4o5wq-6)" x="0.095323741" y="0.5"
+                width="73.9570798" height="37"></rect>
+            <text font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal" fill="#000000">
+                <tspan x="19.2178636" y="25">CTE</tspan>
+            </text>
+        </g>
+        <g id="VME" transform="translate(354.680982, 309.000000)">
+            <rect id="矩形" stroke="#A633EF" fill="url(#linearGradient--e8jw4o5wq-6)" x="0.81883584" y="0.5"
+                width="73.9570798" height="37"></rect>
+            <text font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal" fill="#000000">
+                <tspan x="18.3753757" y="25">VME</tspan>
+            </text>
+        </g>
+        <g id="MPE" transform="translate(439.957055, 309.000000)">
+            <rect id="矩形" stroke="#A633EF" fill="url(#linearGradient--e8jw4o5wq-6)" x="0.542920209" y="0.5"
+                width="73.9570798" height="37"></rect>
+            <text font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal" fill="#000000">
+                <tspan x="18.0724601" y="25">MPE</tspan>
+            </text>
+        </g>
+        <g id="编组" transform="translate(18.000000, 309.000000)">
+            <rect id="矩形" stroke="#2350E1" fill="url(#linearGradient--e8jw4o5wq-7)" x="0.5" y="0.5" width="68"
+                height="37"></rect>
+            <text id="klib" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
+                fill="#000000">
+                <tspan x="21.046" y="26">klib</tspan>
+            </text>
+        </g>
+        <line x1="0.5" y1="240.5" x2="528.5" y2="240.5" id="直线" stroke="#979797" stroke-linecap="square"
+            stroke-dasharray="5"></line>
+    </g>
+</svg>

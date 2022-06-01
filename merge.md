@@ -1,4 +1,6 @@
-进程
+[toc]
+
+
 
 # 0. SageOS 概述
 
@@ -291,7 +293,7 @@ make clean
      如返回值为非 0, 则代表该项测试失败。
 5. 打印出最终测试结果。
 
-### 0.3.4 其它问题和注意事项
+### 其它问题和注意事项
 
 1. 如果更改代码后运行结果还是出错，请 `make clean` ；若清除后仍出现错误的文件链接或使用了此前的编译文件，请删除项目内所有 build 目录（包括 am/klib/kernel 等目录下的 build 目录）并重试。
 
@@ -1662,20 +1664,20 @@ cond1(no)->op1->e
    ```c
    //向head的下一个节点添加node
    void list_add(struct list_head* node, struct list_head* head);
-
+   
    //向head的前一个节点添加node
    void list_add_tail(struct list_head* node, struct list_head* head);
-
+   
    //删除某一节点
    void list_del(struct list_head* entry);
-
+   
    //将list移动到node后
    void list_move(struct list_head* list, struct list_head* head);
-
+   
    //将list移动到node前
    void list_move_tail(struct list_head* list,
                                      struct list_head* head);
-
+   
    //判断链表是否为空
    int list_empty(const struct list_head* head);
    ```

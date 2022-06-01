@@ -13,3 +13,6 @@ docs/.vuepress/.temp/
 docs/.vuepress/dist/
 
 docs-old
+*.csv
+contrib.md
+merge*
